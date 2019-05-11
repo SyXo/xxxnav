@@ -1,0 +1,6 @@
+
+videos/*.*
+!videos/.gitkeep
+
+web/thumbs/*.*
+!web/thumbs/.gitkeep

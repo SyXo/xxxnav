@@ -1,0 +1,2153 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"thbm",
+				"thumb"
+			],
+			[
+				"thumb",
+				"thumb-under"
+			],
+			[
+				"vi",
+				"video"
+			],
+			[
+				"dow",
+				"download_url"
+			],
+			[
+				"downlo",
+				"downloadFile"
+			],
+			[
+				"video",
+				"videoname"
+			],
+			[
+				"term",
+				"terms"
+			],
+			[
+				"upda",
+				"updateRecommended"
+			],
+			[
+				"recomm",
+				"recommended"
+			],
+			[
+				"xdownl",
+				"xdownloader_search"
+			],
+			[
+				"error",
+				"errorCallback"
+			],
+			[
+				"fill",
+				"fillCEPData"
+			],
+			[
+				"txtSubscriptionZ",
+				"txtSubscriptionZipCode"
+			],
+			[
+				"txtSubscriptionAddress",
+				"txtSubscriptionAddressInfo"
+			],
+			[
+				"selectizeS",
+				"selectizeState"
+			],
+			[
+				"CEP",
+				"CEPData"
+			],
+			[
+				"txtsubscrip",
+				"txtSubscriptionZone"
+			],
+			[
+				"tblLoca",
+				"tblLocationCity"
+			],
+			[
+				"Loca",
+				"LocationHandler"
+			],
+			[
+				"By",
+				"ByPassLogin"
+			],
+			[
+				"btn",
+				"btn-print-page"
+			],
+			[
+				"TicketID",
+				"TicketID"
+			],
+			[
+				"getTi",
+				"getTicketData"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"txtSu",
+				"txtSubmissionIDs"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"submission-",
+				"submission-top-title"
+			],
+			[
+				"Subsc",
+				"SubscriptionID"
+			],
+			[
+				"return",
+				"returnNumbers"
+			],
+			[
+				"Submis",
+				"SubmissionID"
+			],
+			[
+				"Submi",
+				"SubmissionID"
+			],
+			[
+				"SubmissionI",
+				"SubmissionIDX"
+			],
+			[
+				"SubmissionsCa",
+				"SubmissionsCAPESData"
+			],
+			[
+				"execSele",
+				"executeSelectRow"
+			],
+			[
+				"CAPESAreaSub",
+				"CAPESAreaSubGroupID"
+			],
+			[
+				"CAPESAreaSe",
+				"CAPESAreaSectionName"
+			],
+			[
+				"tblFrame",
+				"tblFrameworkSubmission"
+			],
+			[
+				"tblFram",
+				"tblFrameworkSubmission"
+			],
+			[
+				"Byp",
+				"BypassProfile"
+			],
+			[
+				"URL",
+				"URLData"
+			],
+			[
+				"ByP",
+				"ByPassProfile"
+			],
+			[
+				"Return",
+				"ReturnArray"
+			],
+			[
+				"Submissi",
+				"SubmissionsData"
+			],
+			[
+				"Rtu",
+				"ReturnArray"
+			],
+			[
+				"retu",
+				"returnObj"
+			],
+			[
+				"Submission",
+				"SubmissionData"
+			],
+			[
+				"submissi",
+				"submissionControl"
+			],
+			[
+				"S",
+				"SubmissionIDX"
+			],
+			[
+				"Activi",
+				"ActivityEventID"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"Submiss",
+				"SubmissionData"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"txtSubmi",
+				"txtSubmissionKeywords"
+			],
+			[
+				"Act",
+				"ActivityData"
+			],
+			[
+				"CAPESARE",
+				"CAPESAreaCode"
+			],
+			[
+				"getActivitiesFrom",
+				"getActivitiesFromTicket"
+			],
+			[
+				"selectizeSubmissionCAPESAreaM",
+				"selectizeSubmissionCAPESAreaMain"
+			],
+			[
+				"select",
+				"selectSubmissionCAPESAreaMain"
+			],
+			[
+				"SubmissionaA",
+				"SubmissionAreaID"
+			],
+			[
+				"Ac",
+				"ActivityData"
+			],
+			[
+				"submi",
+				"submission-activity-container"
+			],
+			[
+				"ActivitiesQu",
+				"ActivitiesQueryResult"
+			],
+			[
+				"TicketI",
+				"TicketIDX"
+			],
+			[
+				"Ticket",
+				"TicketData"
+			],
+			[
+				"Tick",
+				"TicketData"
+			],
+			[
+				"tick",
+				"TicketID"
+			],
+			[
+				"Acti",
+				"ActivityData"
+			],
+			[
+				"ActivityI",
+				"ActivityIDX"
+			],
+			[
+				"ActivityD",
+				"ActivityData"
+			],
+			[
+				"Date",
+				"DateString"
+			],
+			[
+				"_USER_",
+				"_USER_NAME"
+			],
+			[
+				"confi",
+				"confirmation-content"
+			],
+			[
+				"Reu",
+				"ReturnArray"
+			],
+			[
+				"Order",
+				"OrderSum"
+			],
+			[
+				"Use",
+				"Used"
+			],
+			[
+				"Retur",
+				"ReturnArray"
+			],
+			[
+				"U",
+				"UserSSN"
+			],
+			[
+				"Or",
+				"OrderSum"
+			],
+			[
+				"Even",
+				"EventHandler"
+			],
+			[
+				"TicketQuer",
+				"TicketQueryData"
+			],
+			[
+				"Re",
+				"ReturnArray"
+			],
+			[
+				"Ti",
+				"TicketsData"
+			],
+			[
+				"getEve",
+				"getEventData"
+			],
+			[
+				"E",
+				"EventID"
+			],
+			[
+				"tblEvent",
+				"tblEventTicket"
+			],
+			[
+				"ticke",
+				"ticketID"
+			],
+			[
+				"Q",
+				"_QTYS"
+			],
+			[
+				"txtTi",
+				"txtTicketID"
+			],
+			[
+				"new",
+				"newQty"
+			],
+			[
+				"unit",
+				"unitValue"
+			],
+			[
+				"curr",
+				"currentQty"
+			],
+			[
+				"txt",
+				"txtTicketQty"
+			],
+			[
+				"sect",
+				"sectionActivities"
+			],
+			[
+				"na",
+				"navLinkSubscription"
+			],
+			[
+				"scro",
+				"scrollToElement"
+			],
+			[
+				"navL",
+				"navLinkTickets"
+			],
+			[
+				"ele",
+				"elementID"
+			],
+			[
+				"sec",
+				"sectionTickets"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"s",
+				"size\tAttr"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"Inte",
+				"IntegerCursor"
+			],
+			[
+				"Integ",
+				"IntegerPart"
+			],
+			[
+				"Int",
+				"IntegerCursor"
+			],
+			[
+				"Intege",
+				"IntegerLength"
+			],
+			[
+				"Decim",
+				"DecimalCase"
+			],
+			[
+				"Deci",
+				"DecimalPart"
+			],
+			[
+				"Valu",
+				"ValueLength"
+			],
+			[
+				"tblE",
+				"tblEventActivity"
+			],
+			[
+				"Tic",
+				"TicketsQueryData"
+			],
+			[
+				"tblEventT",
+				"tblEventTicket"
+			],
+			[
+				"tblEventTic",
+				"tblEventTicketActivity"
+			],
+			[
+				"tblTicke",
+				"tblEventTicketActivity"
+			],
+			[
+				"tblEventAc",
+				"tblEventActivityEvent"
+			],
+			[
+				"tblEventTi",
+				"tblEventActivityEvent"
+			],
+			[
+				"getA",
+				"getActivitiesFromEvent"
+			],
+			[
+				"EventI",
+				"EventID"
+			],
+			[
+				"tblEventA",
+				"tblEventActivityEvent"
+			],
+			[
+				"tblEven",
+				"tblEventActivityEvent"
+			],
+			[
+				"Acit",
+				"ActivityID"
+			],
+			[
+				"Tice",
+				"TicketData"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"TicketsQ",
+				"TicketsQueryData"
+			],
+			[
+				"Event",
+				"EventID"
+			],
+			[
+				"tbl",
+				"tblEventTicket"
+			],
+			[
+				"getEv",
+				"getEventStatus"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "youporn_download.py",
+			"settings":
+			{
+				"buffer_size": 467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xnxx_download.py",
+			"settings":
+			{
+				"buffer_size": 757,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xxxnav.py",
+			"settings":
+			{
+				"buffer_size": 2430,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web/search.html",
+			"settings":
+			{
+				"buffer_size": 30284,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web/recommended.html",
+			"settings":
+			{
+				"buffer_size": 72,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xxxnav_download.py",
+			"settings":
+			{
+				"buffer_size": 2612,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xxxnav_search.py",
+			"settings":
+			{
+				"buffer_size": 2304,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xxxnav_recommended.py",
+			"settings":
+			{
+				"buffer_size": 1090,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xxxnav_links.py",
+			"settings":
+			{
+				"buffer_size": 1260,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interfaces/_init_.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interfaces/XInterface.py",
+			"settings":
+			{
+				"buffer_size": 451,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interfaces/YouPorn.py",
+			"settings":
+			{
+				"buffer_size": 702,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interfaces/Beeg.py",
+			"settings":
+			{
+				"buffer_size": 917,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interfaces/PornHD.py",
+			"settings":
+			{
+				"buffer_size": 703,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interfaces/PornHub.py",
+			"settings":
+			{
+				"buffer_size": 764,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interfaces/RedTube.py",
+			"settings":
+			{
+				"buffer_size": 511,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interfaces/XHamster.py",
+			"settings":
+			{
+				"buffer_size": 4835,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interfaces/XNXX.py",
+			"settings":
+			{
+				"buffer_size": 3347,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "setup.sh",
+			"settings":
+			{
+				"buffer_size": 84,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/fernando/gaivota/gaivota-dash-routes/python/gaivota_server.py",
+			"settings":
+			{
+				"buffer_size": 769,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xhamster_search.py",
+			"settings":
+			{
+				"buffer_size": 3311,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/fernando/Seagate Expansion Drive/OneDrive/Programação/Python/xdown",
+		"/media/fernando/Seagate Expansion Drive/OneDrive/Programação/Python/xdown/interfaces",
+		"/media/fernando/Seagate Expansion Drive/OneDrive/Programação/Python/xdown/web"
+	],
+	"file_history":
+	[
+		"/media/fernando/Seagate Expansion Drive/OneDrive/Programação/Python/xdown/xdownloader_interface.py",
+		"/media/fernando/Seagate Expansion Drive/OneDrive/Programação/Python/xdown/beeg_download.py",
+		"/media/fernando/Seagate Expansion Drive/OneDrive/Programação/Python/xdown/web/index.html",
+		"/media/fernando/Seagate Expansion Drive/OneDrive/Programação/Python/xdown/interfaces/YouPorn.py",
+		"/media/fernando/Seagate Expansion Drive/OneDrive/Programação/Python/xdown/setup.sh",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Model/UserRegister.php",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/teste.php",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/assets/js/cep.js",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/scripts.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEvent.sql",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Model/LocationState.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Model/ModelCore.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Model/Evento.php",
+		"/home/fernando/maisempresa/app/spa/_src/config/session_info.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Model/EventSubmission.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventSubmissionCAPESArea.sql",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/footer.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventSubmission.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkModelField.sql",
+		"/home/fernando/maisempresa/app/sistema/class/Validator/validator.class.php",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/assets/plugins/selectize/dist/css/custom.css",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/assets/plugins/selectize/dist/css/selectize.css",
+		"/home/fernando/maisempresa/app/spa/_src/ajax.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Controller/URLParser.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Controller/ControllerCore.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/View/ViewCore.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Model/Login.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Util/Strings.php",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/inc.php",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/assets/css/main.css",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventActivityEvent.sql",
+		"/home/fernando/maisempresa/app/spa/_src/config/system_start.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkFile.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkFileStorage.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventActivityAccessControlType.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/_1_all_files.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventSubmissionArea.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventTicketActivity.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventActivityType.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventResponsibleType.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventSubscription.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkModel.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventSubmissionStatus.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventActivity.sql",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/evento.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/AWS/MaisEmpresaAWS.php",
+		"/home/fernando/maisempresa/app/_docs/documentacao_oficial/ToDo",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/index.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventTicket.sql",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/View/Form.php",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoInscricao.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoSubmissaoStatus.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoSubmissao.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblEventTicketType.sql",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Model/User.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Model/LocationCity.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Error/InvalidArguments.php",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/login.php",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoAtividadeCriterioFreq.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoLocal.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoAtividadeEvento.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoAtividadeTipo.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoAtividadeResponsavelTipo.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoIngressoTipo.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoIngresso.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoAtividade.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEventoIngressoAtividade.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkUser.sql",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Controller/PasswordHandler.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkProfile.sql",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/assets/css/preloader.css",
+		"/home/fernando/maisempresa/app/spa/_frames/material/base.php",
+		"/home/fernando/maisempresa/app/spa/_frames/material/containers/topbar.php",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/headtag.php",
+		"/home/fernando/maisempresa/app/sistema/includes/docker/tentativa-jose-2019-maio.md",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/entrar.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/composer.json",
+		"/home/fernando/maisempresa/app/spa/_src/class/vendor/autoload.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkMenu.sql",
+		"/home/fernando/maisempresa/app/spa/_frames/material/containers/menu.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/View/Menu.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkModule.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkDBRelations.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblLocationCountry.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblLocationState.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblLocationCity.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/docker/setup.sh",
+		"/home/fernando/maisempresa/app/sistema/includes/docker/Dockerfile-MySQL",
+		"/home/fernando/maisempresa/app/spa/_src/class/vendor/pagseguro/pagseguro-php-sdk/source/Configuration/Configure.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkUserProfile.sql",
+		"/home/fernando/maisempresa/app/_templates/business/brandi/css/main.css",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/DBM/Connection.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkCompany.sql",
+		"/home/fernando/maisempresa/app/sistema/pages/clientes/cadastrar.php",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblEvento.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblSistemaLocalCidade.sql",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkImages.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblSistemaLocalEstado.sql",
+		"/home/fernando/maisempresa/app/sistema/includes/db/tables/tblSistemaLocalPais.sql",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Model/Documento.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Model/Home.php",
+		"/home/fernando/maisempresa/app/web/fateb/eventos-modelo3/.htaccess",
+		"/home/fernando/maisempresa/app/spa/_frames/material/profileselector.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkStorage.sql",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Controller/FileHandler.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/AWS/Aws/Ses/SesClient.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/AWS/AWSLoader.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/classes_loader.php",
+		"/home/fernando/maisempresa/app/spa/_src/config/server_config.php",
+		"/home/fernando/maisempresa/app/spa/_frames/adminlte/containers/header.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkStorageType.sql",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Error/InsufficientPermissions.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/MaisEmpresa/Error/InvalidFile.php",
+		"/home/fernando/maisempresa/app/spa/_src/db/tables/tblFrameworkFileGroup.sql",
+		"/home/fernando/maisempresa/app/spa/_frames/material/js/custom.min.js",
+		"/home/fernando/maisempresa/app/_templates/material-pro/dark/js/custom.min.js",
+		"/home/fernando/maisempresa/app/spa/_src/class/AWS/Aws/Sns/SnsClient.php",
+		"/home/fernando/maisempresa/app/spa/_src/config/system_config.php",
+		"/home/fernando/maisempresa/app/sistema/class/MaisEmpresaAWS/MaisEmpresaAWS.class.php",
+		"/home/fernando/maisempresa/app/spa/_src/class/AWS/GuzzleHttp/Psr7/Request.php",
+		"/home/fernando/maisempresa/app/sistema/includes/server_configs.php",
+		"/home/fernando/maisempresa/app/_docs/documentacao_oficial/book.json",
+		"/home/fernando/maisempresa/app/spa/_frames/material/containers/preloader.php",
+		"/home/fernando/maisempresa/app/spa/_frames/material/css/colors/default.css",
+		"/home/fernando/maisempresa/app/spa/_frames/material/css/style.css",
+		"/home/fernando/maisempresa/app/spa/_frames/material/login.php",
+		"/etc/apache2/ports.conf",
+		"/home/fernando/maisempresa/app/macros.sh"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 247.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"query",
+			"print '",
+			"print \"",
+			"thumbs_path",
+			"sources",
+			"filename",
+			"openURL('web",
+			"web/",
+			"webbrowser.open",
+			"updateSearch",
+			"GetDownloadLink"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "youporn_download.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "xnxx_download.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "xxxnav.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2300,
+								2300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "web/search.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "web/recommended.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "xxxnav_download.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1547,
+								1547
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 598.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "xxxnav_search.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "xxxnav_recommended.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								410,
+								410
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/media/fernando/Seagate Expansion Drive/OneDrive/Programação/Python/xdown/interfaces",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "xxxnav_links.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "interfaces/_init_.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Dockerfile Syntax Highlighting/Syntaxes/Dockerfile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "interfaces/XInterface.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "interfaces/YouPorn.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "interfaces/Beeg.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								330,
+								330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "interfaces/PornHD.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "interfaces/PornHub.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "interfaces/RedTube.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "interfaces/XHamster.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4835,
+								4835
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1048.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "interfaces/XNXX.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 99.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "setup.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/home/fernando/gaivota/gaivota-dash-routes/python/gaivota_server.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								769,
+								769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "xhamster_search.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 85.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "xxxnav.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"userre",
+				"app/spa/_src/class/MaisEmpresa/Model/UserRegister.php"
+			],
+			[
+				"scripts",
+				"app/web/fateb/eventos-modelo3/scripts.php"
+			],
+			[
+				"tbleve",
+				"app/spa/_src/db/tables/tblEvent.sql"
+			],
+			[
+				"evento",
+				"app/spa/_src/class/MaisEmpresa/Model/Evento.php"
+			],
+			[
+				"ajax",
+				"app/spa/_src/ajax.php"
+			],
+			[
+				"tbllocation",
+				"app/spa/_src/db/tables/tblLocationCity.sql"
+			],
+			[
+				"locationsat",
+				"app/spa/_src/db/tables/tblLocationState.sql"
+			],
+			[
+				"locationstat",
+				"app/spa/_src/class/MaisEmpresa/Model/LocationState.php"
+			],
+			[
+				"modelcor",
+				"app/spa/_src/class/MaisEmpresa/Model/ModelCore.php"
+			],
+			[
+				"modelco",
+				"app/spa/_src/class/MaisEmpresa/Model/ModelCore.php"
+			],
+			[
+				"strings",
+				"app/spa/_src/class/MaisEmpresa/Util/Strings.php"
+			],
+			[
+				"evento.",
+				"app/spa/_src/class/MaisEmpresa/Model/Evento.php"
+			],
+			[
+				"session",
+				"app/spa/_src/config/session_info.php"
+			],
+			[
+				"classes_loader",
+				"app/spa/_src/class/classes_loader.php"
+			],
+			[
+				"system_s",
+				"app/spa/_src/config/system_start.php"
+			],
+			[
+				"spa/_src/inc",
+				"app/spa/_src/inc.php"
+			],
+			[
+				"inscrica",
+				"app/web/fateb/eventos-modelo3/inscricao.php"
+			],
+			[
+				"footer.p",
+				"app/web/fateb/eventos-modelo3/footer.php"
+			],
+			[
+				"inscr",
+				"app/web/fateb/eventos-modelo3/inscricao.php"
+			],
+			[
+				"viewco",
+				"app/spa/_src/class/MaisEmpresa/View/ViewCore.php"
+			],
+			[
+				"inscri",
+				"app/web/fateb/eventos-modelo3/inscricao.php"
+			],
+			[
+				"session_in",
+				"app/spa/_src/config/session_info.php"
+			],
+			[
+				"_1_",
+				"app/spa/_src/db/_1_all_files.sql"
+			],
+			[
+				"scripts.php",
+				"app/web/fateb/eventos-modelo3/scripts.php"
+			],
+			[
+				"tblframeworkmo",
+				"app/spa/_src/db/tables/tblFrameworkModel.sql"
+			],
+			[
+				"tbleventti",
+				"app/spa/_src/db/tables/tblEventTicket.sql"
+			],
+			[
+				"",
+				"app/spa/_src/class/MaisEmpresa/Model/Evento.php"
+			],
+			[
+				"tblmodelfi",
+				"app/spa/_src/db/tables/tblFrameworkModelField.sql"
+			],
+			[
+				"ins",
+				"app/web/fateb/eventos-modelo3/inscricao.php"
+			],
+			[
+				"tbleventsub",
+				"app/spa/_src/db/tables/tblEventSubscription.sql"
+			],
+			[
+				"modelfi",
+				"app/spa/_src/db/tables/tblFrameworkModelField.sql"
+			],
+			[
+				"tbleventsuc",
+				"app/spa/_src/db/tables/tblEventSubscription.sql"
+			],
+			[
+				"eventtick",
+				"app/spa/_src/db/tables/tblEventTicket.sql"
+			],
+			[
+				"form.ph",
+				"app/spa/_src/class/MaisEmpresa/View/Form.php"
+			],
+			[
+				"tbleventsu",
+				"app/spa/_src/db/tables/tblEventSubscription.sql"
+			],
+			[
+				"eventoinsc",
+				"app/sistema/includes/db/tables/tblEventoInscricao.sql"
+			],
+			[
+				"modelc",
+				"app/spa/_src/class/MaisEmpresa/Model/ModelCore.php"
+			],
+			[
+				"submissionst",
+				"app/spa/_src/db/tables/tblEventSubmissionStatus.sql"
+			],
+			[
+				"urlpar",
+				"app/spa/_src/class/MaisEmpresa/Controller/URLParser.php"
+			],
+			[
+				"controller",
+				"app/spa/_src/class/MaisEmpresa/Controller/ControllerCore.php"
+			],
+			[
+				"tbleventsubm",
+				"app/spa/_src/db/tables/tblEventSubmission.sql"
+			],
+			[
+				"tblframew",
+				"app/spa/_src/db/tables/tblFrameworkModel.sql"
+			],
+			[
+				"userregis",
+				"app/spa/_src/class/MaisEmpresa/Model/UserRegister.php"
+			],
+			[
+				"tblEventSubmissionArea",
+				"app/spa/_src/db/tables/tblEventSubmissionArea.sql"
+			],
+			[
+				"tblsubmissaos",
+				"app/sistema/includes/db/tables/tblEventoSubmissaoStatus.sql"
+			],
+			[
+				"strin",
+				"app/spa/_src/class/MaisEmpresa/Util/Strings.php"
+			],
+			[
+				"tbleventsubmissiona",
+				"app/spa/_src/db/tables/tblEventSubmissionArea.sql"
+			],
+			[
+				"tblsubmissionc",
+				"app/spa/_src/db/tables/tblEventSubmissionCAPESAreaMain.sql"
+			],
+			[
+				"validator.",
+				"app/sistema/class/Validator/validator.class.php"
+			],
+			[
+				"frameworkfield",
+				"app/spa/_src/db/tables/tblFrameworkModelField.sql"
+			],
+			[
+				"tblevent",
+				"app/spa/_src/db/tables/tblEventTicketType.sql"
+			],
+			[
+				"tbleventacit",
+				"app/spa/_src/db/tables/tblEventActivityEvent.sql"
+			],
+			[
+				"tbleventosub",
+				"app/sistema/includes/db/tables/tblEventoSubmissao.sql"
+			],
+			[
+				"aja",
+				"app/spa/_src/ajax.php"
+			],
+			[
+				"user",
+				"app/spa/_src/class/MaisEmpresa/Model/User.php"
+			],
+			[
+				"login.p",
+				"app/spa/_src/class/MaisEmpresa/Model/Login.php"
+			],
+			[
+				"_ajax",
+				"app/spa/_src/ajax.php"
+			],
+			[
+				"locationcity",
+				"app/spa/_src/class/MaisEmpresa/Model/LocationCity.php"
+			],
+			[
+				"eventacti",
+				"app/spa/_src/db/tables/tblEventActivityEvent.sql"
+			],
+			[
+				"tbleventac",
+				"app/spa/_src/db/tables/tblEventActivity.sql"
+			],
+			[
+				"tblevent.sql",
+				"app/spa/_src/db/tables/tblEvent.sql"
+			],
+			[
+				"eventact",
+				"app/spa/_src/db/tables/tblEventActivity.sql"
+			],
+			[
+				"string",
+				"app/spa/_src/class/MaisEmpresa/Util/Strings.php"
+			],
+			[
+				"user.ph",
+				"app/spa/_src/class/MaisEmpresa/Model/User.php"
+			],
+			[
+				"session_",
+				"app/spa/_src/config/session_info.php"
+			],
+			[
+				"userregi",
+				"app/spa/_src/class/MaisEmpresa/Model/UserRegister.php"
+			],
+			[
+				"user.p",
+				"app/spa/_src/class/MaisEmpresa/Model/User.php"
+			],
+			[
+				"inc.",
+				"app/web/fateb/eventos-modelo3/inc.php"
+			],
+			[
+				"main.css",
+				"app/web/fateb/eventos-modelo3/assets/css/main.css"
+			],
+			[
+				"inscro",
+				"app/web/fateb/eventos-modelo3/inscricao.php"
+			],
+			[
+				"valida",
+				"app/sistema/class/Validator/validator.class.php"
+			],
+			[
+				"main.css fateb",
+				"app/web/fateb/eventos-modelo3/assets/css/main.css"
+			],
+			[
+				"filestora",
+				"app/spa/_src/db/tables/tblFrameworkFileStorage.sql"
+			],
+			[
+				"tblframeworkfi",
+				"app/spa/_src/db/tables/tblFrameworkFile.sql"
+			],
+			[
+				"tblEventTicketActivity",
+				"app/spa/_src/db/tables/tblEventTicketActivity.sql"
+			],
+			[
+				"ticketa",
+				"app/spa/_src/db/tables/tblEventTicketActivity.sql"
+			],
+			[
+				"criteriof",
+				"app/sistema/includes/db/tables/tblEventoAtividadeCriterioFreq.sql"
+			],
+			[
+				"tbleventoloc",
+				"app/sistema/includes/db/tables/tblEventoLocal.sql"
+			],
+			[
+				"eventoatividadee",
+				"app/sistema/includes/db/tables/tblEventoAtividadeEvento.sql"
+			],
+			[
+				"tbleven",
+				"app/spa/_src/db/tables/tblEvent.sql"
+			],
+			[
+				"_1_a",
+				"app/spa/_src/db/_1_all_files.sql"
+			],
+			[
+				"model event.php",
+				"app/spa/_src/class/MaisEmpresa/Model/Evento.php"
+			],
+			[
+				"framewmodel",
+				"app/spa/_src/db/tables/tblFrameworkModel.sql"
+			],
+			[
+				"atividadet",
+				"app/sistema/includes/db/tables/tblEventoAtividadeTipo.sql"
+			],
+			[
+				"atividaderep",
+				"app/sistema/includes/db/tables/tblEventoAtividadeResponsavelTipo.sql"
+			],
+			[
+				"ingressotipo",
+				"app/sistema/includes/db/tables/tblEventoIngressoTipo.sql"
+			],
+			[
+				"eventoinscri",
+				"app/sistema/includes/db/tables/tblEventoInscricao.sql"
+			],
+			[
+				"tbleventoin",
+				"app/sistema/includes/db/tables/tblEventoIngresso.sql"
+			],
+			[
+				"tbleventoa",
+				"app/sistema/includes/db/tables/tblEventoAtividade.sql"
+			],
+			[
+				"tblatividade",
+				"app/sistema/includes/db/tables/tblEventoIngressoAtividade.sql"
+			],
+			[
+				"eventoing",
+				"app/sistema/includes/db/tables/tblEventoIngresso.sql"
+			],
+			[
+				"session_i",
+				"app/spa/_src/config/session_info.php"
+			],
+			[
+				"topbar.php",
+				"app/spa/_frames/material/containers/topbar.php"
+			],
+			[
+				"base.php",
+				"app/spa/_frames/material/base.php"
+			],
+			[
+				"session_info",
+				"app/spa/_src/config/session_info.php"
+			],
+			[
+				"frameworku",
+				"app/spa/_src/db/tables/tblFrameworkUser.sql"
+			],
+			[
+				"spa model Login.php",
+				"app/spa/_src/class/MaisEmpresa/Model/Login.php"
+			],
+			[
+				"userprof",
+				"app/spa/_src/db/tables/tblFrameworkUserProfile.sql"
+			],
+			[
+				"frameworkus",
+				"app/spa/_src/db/tables/tblFrameworkUser.sql"
+			],
+			[
+				"locationcit",
+				"app/spa/_src/class/MaisEmpresa/Model/LocationCity.php"
+			],
+			[
+				"insc",
+				"app/web/fateb/eventos-modelo3/inscricao.php"
+			],
+			[
+				"ajax.",
+				"app/spa/_src/ajax.php"
+			],
+			[
+				"tblframeworkus",
+				"app/spa/_src/db/tables/tblFrameworkUser.sql"
+			],
+			[
+				"dbre",
+				"app/spa/_src/db/tables/tblFrameworkDBRelations.sql"
+			],
+			[
+				"form.php",
+				"app/spa/_src/class/MaisEmpresa/View/Form.php"
+			],
+			[
+				"strings.p",
+				"app/spa/_src/class/MaisEmpresa/Util/Strings.php"
+			],
+			[
+				"tbldbre",
+				"app/spa/_src/db/tables/tblFrameworkDBRelations.sql"
+			],
+			[
+				"frameworkmo",
+				"app/spa/_src/db/tables/tblFrameworkModel.sql"
+			],
+			[
+				"tbllocationci",
+				"app/spa/_src/db/tables/tblLocationCity.sql"
+			],
+			[
+				"dbm/conn",
+				"app/spa/_src/class/MaisEmpresa/DBM/Connection.php"
+			],
+			[
+				"locationst",
+				"app/spa/_src/db/tables/tblLocationState.sql"
+			],
+			[
+				"frameworkmod",
+				"app/spa/_src/db/tables/tblFrameworkModel.sql"
+			],
+			[
+				"modelfie",
+				"app/spa/_src/db/tables/tblFrameworkModelField.sql"
+			],
+			[
+				"tbllocationst",
+				"app/spa/_src/db/tables/tblLocationState.sql"
+			],
+			[
+				"tblframeworkmod",
+				"app/spa/_src/db/tables/tblFrameworkModel.sql"
+			],
+			[
+				"tblframeworkuser",
+				"app/spa/_src/db/tables/tblFrameworkUser.sql"
+			],
+			[
+				"frameworkcom",
+				"app/spa/_src/db/tables/tblFrameworkCompany.sql"
+			],
+			[
+				"validator.c",
+				"app/sistema/class/Validator/validator.class.php"
+			],
+			[
+				"strings.",
+				"app/spa/_src/class/MaisEmpresa/Util/Strings.php"
+			],
+			[
+				"tblframeworkcom",
+				"app/spa/_src/db/tables/tblFrameworkCompany.sql"
+			],
+			[
+				"tblframeworkuserpro",
+				"app/spa/_src/db/tables/tblFrameworkUserProfile.sql"
+			],
+			[
+				"tblframeworkpro",
+				"app/spa/_src/db/tables/tblFrameworkProfile.sql"
+			],
+			[
+				"modelcore",
+				"app/spa/_src/class/MaisEmpresa/Model/ModelCore.php"
+			],
+			[
+				"frameworkfilest",
+				"app/spa/_src/db/tables/tblFrameworkFileStorage.sql"
+			],
+			[
+				"frameworkfil",
+				"app/spa/_src/db/tables/tblFrameworkFile.sql"
+			],
+			[
+				"pages/clientes/cadas",
+				"app/sistema/pages/clientes/cadastrar.php"
+			],
+			[
+				"tblmode",
+				"app/spa/_src/db/tables/tblFrameworkModelField.sql"
+			],
+			[
+				"tblframeworkmode",
+				"app/spa/_src/db/tables/tblFrameworkModel.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
